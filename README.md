@@ -1,12 +1,24 @@
-Project name: EV Charging Station Route Optimization Application
-Project description: The purpose of this project is to create a route optimiz...
-Visual helper: Make use of screenshots, videos, and even GIFs to enhance appeal and captivate interest.
-Installation instructions: Fir
-Usage and examples: 
-Troubleshooting and FAQs: In this section, you can provide solutions to common issues and answer frequently asked questions.
-Dependencies: List any external libraries or packages required to run your project. This will help users understand what they should be familiar with.
-Support: 
-Acknowledgments: Sabrina Skoric, Jessie Emeshili, Eshal Arif, Maryam Member
-Documentation and links: https://docs.google.com/document/d/1Zv3sieODWS9q--kpdOEtu3hdIpkYSJuvqFUKNdwCnkE/edit 
-Known issues: List any known issues or limitations with the current version of your project. This can provide an opportunity for contributions that address the issue.
-Badges: Optionally, you can include badges to showcase the build status, code coverage, and other relevant metrics.
+# EV Charging Station Route Optimization Application
+## Project Description
+
+The EV Charging Station Route Optimization Application aims to streamline the process of planning routes for electric vehicle (EV) drivers by optimizing their charging station stops. By considering factors such as distance, charging station availability, and user preferences, this application helps users plan efficient routes for their 
+
+
+
+Include any relevant screenshots, videos, or GIFs here to provide a visual representation of the application's interface or functionality.
+
+
+## Set Up and Execution
+
+Provide instructions or guidelines on how to set up and execute the application. Include any necessary configurations or prerequisites.
+
+## Acknowledgments
+Here are a list of individuals who contributed to this project 
+- Sabrina Skoric
+- Jessie Emeshili
+- Eshal Arif
+- Maryam Member
+
+## Documentation and Links
+For detailed documentation and additional resources, refer to the following link:
+[EV Charging Station Route Optimization Application Documentation](https://docs.google.com/document/d/1Zv3sieODWS9q--kpdOEtu3hdIpkYSJuvqFUKNdwCnkE/edit)
