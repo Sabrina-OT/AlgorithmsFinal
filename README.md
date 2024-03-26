@@ -1,7 +1,7 @@
 # EV Charging Station Route Optimization Application
 ## Project Description
 
-The goal of the EV Charging Station Route Optimization Application is to increase user convenience when driving an electric vehicle (EV) by analyzing charging station locations distances. This application helps users establish efficient routes for their vehicles by selecting a starting location within a 23-node network, determining the fastest path to each charging station, and recommending the best route.
+The goal of the EV Charging Station Route Optimization Application is to increase user convenience when driving an electric vehicle (EV) by analyzing the distances between different charging station locations. This application helps users find efficient routes for their vehicles by selecting a starting location within a 23-node network, determining the fastest path to each charging station, and recommending the best route.
 
 
 Include any relevant screenshots, videos, or GIFs here to provide a visual representation of the application's interface or functionality.
