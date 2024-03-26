@@ -12,7 +12,7 @@ Include any relevant screenshots, videos, or GIFs here to provide a visual repre
 Provide instructions or guidelines on how to set up and execute the application. Include any necessary configurations or prerequisites.
 
 ## Acknowledgments
-Here are a list of individuals who contributed to this project 
+Here are the members who contributed to this project:
 - Sabrina Skoric
 - Jessie Emeshili
 - Eshal Arif
