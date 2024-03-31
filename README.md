@@ -77,4 +77,5 @@ Here are the members who contributed to this project:
 
 ## Documentation and Links
 For detailed documentation and additional resources, refer to the following link:
-[EV Charging Station Route Optimization Application Documentation]([https://docs.google.com/document/d/1LUm6EdfCDJmJNpRVsSaH1quFMhNh5GPz16TjKjxSHVk/view])
+[EV Charging Station Route Optimization Application Documentation](https://docs.google.com/document/d/1LUm6EdfCDJmJNpRVsSaH1quFMhNh5GPz16TjKjxSHVk/view)
+
